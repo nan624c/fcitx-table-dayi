@@ -3,6 +3,7 @@ fcitx-table-dayi
 Description
 ==============
 Dayi (http://www.dayi.com) table for fcitx
+*make sure fcitx-libs-dev had been install.
 
 How to install
 ==============
